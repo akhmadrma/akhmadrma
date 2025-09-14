@@ -1,4 +1,4 @@
-<h1> Hi there, its akhmadrma here</h1>
+# Hi there, akhmadrma here!!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;FullStack+Engineer;Web3+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
 
